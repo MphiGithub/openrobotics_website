@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 const Navbar = () => {
   const [state, setState] = useState(false);
   const navigation = [
-    { title: "Home", path: "/" },
+    { title: "Hme", path: "/" },
     { title: "Projects", path: "/Projects" },
     { title: "Our Team", path: "/Team" },
     { title: "Recruitment", path: "/Recruitment" },
